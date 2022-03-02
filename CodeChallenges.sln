@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStringByStack", "Rev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromString", "PalindromString\PalindromString.csproj", "{01FDB1BA-D8FD-4F02-B8D2-84DFE617F053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicOperationWithO(1)", "BasicOperationsWithO_1\BasicOperationsWithO_1.csproj", "{3E5CB8FE-1CFC-4196-82FC-C5A4655630A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{01FDB1BA-D8FD-4F02-B8D2-84DFE617F053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01FDB1BA-D8FD-4F02-B8D2-84DFE617F053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01FDB1BA-D8FD-4F02-B8D2-84DFE617F053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5CB8FE-1CFC-4196-82FC-C5A4655630A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5CB8FE-1CFC-4196-82FC-C5A4655630A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5CB8FE-1CFC-4196-82FC-C5A4655630A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5CB8FE-1CFC-4196-82FC-C5A4655630A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
